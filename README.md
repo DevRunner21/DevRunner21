@@ -2,8 +2,6 @@
 ✔️ &nbsp;매일 성장에 목마른 개발자\
 ✔️ &nbsp;객체 지향 설계와 TDD에 관심이 많습니다.
 
-<br/>
-
 ### 🛠 &nbsp;Technical Skills
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
