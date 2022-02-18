@@ -1,6 +1,6 @@
 ## 👋 &nbsp;꿈꾸는 개발자 김지훈입니다.
 ✔️ &nbsp;매일 성장에 목마른 개발자\
-✔️ &nbsp;ORM에 관심이 많습니다.\
+✔️ &nbsp;ORM에 관심이 많습니다.
 
 ### 🛠 &nbsp;Technical Skills
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
